@@ -175,6 +175,43 @@ footer a:hover {
         padding-bottom: 0.3rem;
       }
 }
+
+/* Destinations Page */
+#destinations-main h1{
+    margin: 1rem;
+}
+#destinations-main p{
+    margin: 1rem;
+}
+#destinations-area{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: .5rem;
+    justify-content: center;
+}
+
+.destination-figure{
+    margin: .5rem;
+    box-shadow: 2px 2px 2px #6B7A8F;
+    }
+.destination-figure figcaption{
+    padding: 1px 0.2rem;
+}
+
+/* Example-stay page */
+
+#example-stay-page h1{
+    padding: 1rem 0 .5rem 1rem;
+}
+#example-stay-page p{
+    padding: 0 1rem 1rem 1rem;
+}
+iframe{
+    padding: 0 1rem 1rem 1rem;
+}
+
+
 /* Blueberry #6B7A8F
 Apricot #F7882F
 Citrus #F7C331
