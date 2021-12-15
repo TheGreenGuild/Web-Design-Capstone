@@ -147,7 +147,8 @@ footer a:hover {
   border-radius: 1rem;
   width: 40vw;
   height: auto;
-  box-shadow: 8px 8px 5px #6b7a8f;
+  border: 2px solid #6B7A8F;
+  box-shadow: 8px 8px 5px #b4a38b;
 }
 .home-page-section h3 {
   text-align: center;
@@ -170,7 +171,8 @@ footer a:hover {
         border-radius: 1rem;
         width: 80vw;
         height: auto;
-        box-shadow: 8px 8px 5px #6b7a8f;
+        border: 2px solid #6B7A8F;
+        box-shadow: 8px 8px 5px #b4a38b;
       }
       .home-page-section h3 {
         text-align: center;
@@ -314,6 +316,19 @@ fieldset{
     box-shadow: 4px 4px 10px #dcc7aa;
 }
 
+/* Thanks Page Style */
+#thanks-page{
+    background-color: #6B7A8F;
+    color: white;
+    padding: 2rem 0 2rem 1rem;
+}
+#thanks-page h1{
+    padding: 1rem;
+}
+
+#thanks-page p{
+    padding-left: 1rem;
+}
 /* Blueberry #6B7A8F
 Apricot #F7882F
 Citrus #F7C331
