@@ -143,16 +143,17 @@ footer a:hover {
 .home-page-section {
   margin: 1rem;
   padding: 1rem;
-  background-color: #dcc7aa;
+  background-color: #F7C331;
   border-radius: 1rem;
   width: 40vw;
   height: auto;
   border: 2px solid #6B7A8F;
-  box-shadow: 8px 8px 5px #b4a38b;
+  box-shadow: 8px 8px 5px #dcc7aa;
 }
+
 .home-page-section h3 {
   text-align: center;
-  color: #6b7a8f;
+  color: #4b5664;
   padding-bottom: 0.3rem;
 }
 }
@@ -167,16 +168,16 @@ footer a:hover {
       .home-page-section {
         margin: 1rem;
         padding: 1rem;
-        background-color: #dcc7aa;
+        background-color: #F7C331;
         border-radius: 1rem;
         width: 80vw;
         height: auto;
         border: 2px solid #6B7A8F;
-        box-shadow: 8px 8px 5px #b4a38b;
-      }
+        box-shadow: 8px 8px 5px #dcc7aa;
+    }
       .home-page-section h3 {
         text-align: center;
-        color: #6b7a8f;
+        color: #4b5664;
         padding-bottom: 0.3rem;
       }
 }
